@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mariam Mohamed</h1>
 <h3 align="center">A fresh graduate from Egypt</h3>
+- 🌍 Al Azhar University
+- Electrical Engineering and Computer Science
 
+- 💬 About Me:
+I am fresh graduated and I have a strong foundation in programming ,software architecture and software design .I am looking forward to gaining a lot of experience in the field of work ,seeking exciting and
+educational opportunities for organizations to grow as a professional.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariammohamed29&label=Profile%20views&color=0e75b6&style=flat" alt="mariammohamed29" /> </p>
 
 <h3 align="left">Connect with me:</h3>
